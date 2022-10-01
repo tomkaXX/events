@@ -1,29 +1,17 @@
 # Developers Conferences Agenda/List
 
-This repository lists a maximum of conference dates to help conference organizers.
+One place - all possible conference and hackathons from around a world! 
 
-As a conference organizer, we always ask ourselves what will be the ideal date for the event?
+And as a developer, a technical lover, we want to have a calendar with next event.
 
-One piece of data to take into account is the date of other events, but how do you find it?
+In this GitHub repository in order to list all the conferences for developers in Europe and the world.
 
-And as a developer, a technical lover, we want to have a calendar, we want to know when will be the next event.
-
-I propose you this GitHub repository in order to list all the conferences for developers in France, Europe and the world.
-
-You want to contribute, add an event or your event? Perfect! Just do a [Pull Request (PR)](https://github.com/scraly/developers-conferences-agenda/pulls) in order to update this developers conferences agenda.
+You want to contribute, add an event or your event? Perfect! Just do a [Pull Request (PR)](https://github.com/tomkaXM/events/pulls) in order to update this developers conferences agenda.
 If everybody contribute to this repo, it can really help conferences organizer and another goal of this idea is to list a maximum of conferences for developers.
 If they don't know your conference they can't buy a ticket and come to it 😏.
 
 This tech conferences agenda list can be seen in https://developers.events/
 
-## Archives
-
-* [2017](archives/2017.md)
-* [2018](archives/2018.md)
-* [2019](archives/2019.md)
-* [2020](archives/2020.md)
-* [2021](archives/2021.md)
-* [2022](archives/2022.md)
 
 ## 2022
 
