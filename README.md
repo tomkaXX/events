@@ -10,6 +10,22 @@ You want to contribute, add an event or your event? Perfect! Just do a [Pull Req
 If everybody contribute to this repo, it can really help conferences organizer and another goal of this idea is to list a maximum of conferences for developers.
 If they don't know your conference they can't buy a ticket and come to it 😏.
 
+Here is a simple flow chart:
+
+```mermaid
+sequenceDiagram
+    participant Apply for a conference
+    participant Buy a ticket yourself
+    Apply for a conference->>Waiting for answer: Hello ,how to get a developer free/discounted ticket?
+    loop Healthcheck
+        Waiting for answer->>Waiting for answer: Relax and wait - sometimes it's take couple weeks to hear back from organizers.
+    end
+    Note right of Waiting for answer: Rational thoughts <br/>prevail!
+    Waiting for answer-->>Apply for a conference: Great! You got a free ticket!
+    Waiting for answer->>Buy a ticket yourself: Sorry bro, you have to buy ticket for yourself. 
+    Buy a ticket yourself-->>Waiting for answer: Still coming!
+```
+
 
 
 Hackathons
@@ -18,7 +34,7 @@ This is a curated list of awesome conferences mostly related (but not limited) t
 
 ## 2022
 
-Conference | Dates | Proposals | Location | Twitter
+Hackathon | Dates | Proposals | Location | Twitter
 -----------|-------|-----------|----------|---------
 [Solana Hacker House](https://solana.com/events/lisbon-hacker-house) | Nov 1 - 3 | Unknown | Lisbon, Portugal| [![](https://user-images.githubusercontent.com/10602/44954380-6a3ab480-aea1-11e8-8ce7-ad540063f4de.png)](https://twitter.com/T0MKA)
 [ETH Lisbon](https://ethlisbon.org) | Oct 28th - 30 | Unknown | Lisbon | [![](https://user-images.githubusercontent.com/10602/44954380-6a3ab480-aea1-11e8-8ce7-ad540063f4de.png)](https://twitter.com/@T0MKA)
