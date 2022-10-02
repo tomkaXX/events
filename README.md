@@ -3,16 +3,16 @@
 <p align="left">
     <a href="https://awesome.re" alt="Awesome">
         <img src="https://awesome.re/badge.svg" /></a>
-    <a href="https://github.com/tomkaXM/events/contributors" alt="Contributors">
-        <img src="https://img.shields.io/github/contributors/badges/shields" /></a>
+    <!--a href="https://github.com/tomkaXM/events/contributors" alt="Contributors">
+        <img src="https://img.shields.io/github/contributors/badges/shields" /></a-->
     <!--a href="#backers" alt="Backers on Open Collective">
         <img src="https://img.shields.io/opencollective/backers/shields" /></a-->
     <!-- a href="#sponsors" alt="Sponsors on Open Collective">
         <img src="https://img.shields.io/opencollective/sponsors/shields" /></a-->
-    <a href="https://github.com/tomkaXM/events/commits" alt="Activity">
-        <img src="https://img.shields.io/github/commit-activity/m/badges/shields" /></a>
-    <a href="https://circleci.com/gh/badges/shields/tree/master">
-        <img src="https://img.shields.io/circleci/project/github/badges/shields/master" alt="build status"></a>
+    <!--a href="https://github.com/tomkaXM/events/commits" alt="Activity">
+        <img src="https://img.shields.io/github/commit-activity/m/badges/shields" /></a-->
+    <!--a href="https://circleci.com/gh/badges/shields/tree/master">
+        <img src="https://img.shields.io/circleci/project/github/badges/shields/master" alt="build status"></a-->
     <a href="https://twitter.com/intent/follow?screen_name=shields_io">
         <img src="https://img.shields.io/twitter/follow/T0MKA?style=social&logo=twitter"
             alt="follow on Twitter"></a>
