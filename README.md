@@ -19,6 +19,7 @@
 </p>
 
 One place - all possible conference and hackathons from around a world! 
+Staying up to date with the latest developments is vital in any technology field, but especially when it comes to software development and programming. One of the fastest—also the most enjoyable—ways to do this is to attend a conference, but with thousands available, where do you start?
 
 And as a developer, a technical lover, we want to have a calendar with next event.
 
@@ -28,14 +29,47 @@ You want to contribute, add an event or your event? Perfect! Just do a [Pull Req
 If everybody contribute to this repo, it can really help conferences organizer and another goal of this idea is to list a maximum of conferences for developers.
 If they don't know your conference they can't buy a ticket and come to it 😏.
 
+What's here ? 
+- [ ] [Free tickets giveaway](https://github.com/tomkaXM/events/blob/main/tickets-giveaway.md)
+- [ ] [Hackathons](https://github.com/tomkaXM/events/blob/main/hackathons.md)
+- [ ] [Community](https://github.com/tomkaXM/events/blob/main/community.md)
+
+## [`FAANG `](https://github.com/tomkaXM/events/blob/main/community.md)
+Oracle Developer Live
+Dates: March 22, Americas; March 24, Europe, Middle East and Africa, Japan, Asia-Pacific
+Location: Various
+
+Microsoft Ignite
+Date: TBA
+Location: Online
+Cost: $2,395
+
+Facebook F8
+Date: Events throughout the year
+Location: Online
+
+Apple WWDC22
+Date: TBA
+Location: Online
+Cost: Free
+
+AWS Summit (Amazon)
+
+I/O (Google)
+The Google I/O Conference also takes place annually and always provides news, updates, and training sessions for the Google technology ecosystem. In this year’s edition in May, the focus was on Android, Cloud, Firebase, Flutter, and DevOps, but you can still watch all sessions online.
+
+🗓 When?
+Between 1. and 20. of May
+
+🛠 Topics?
+Android, ChromeOS, Google Cloud, Google Maps, Firebase, Flutter, … here is a complete list of sessions to watch.
 
 
 
 
 
 
-
-## 2022
+##  `2022`
 
 ### September
 
@@ -144,50 +178,50 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 14-15: [DevOpsDays Tel-Aviv](https://sessionize.com/devopsdays-tel-aviv-2022/) - Tel-Aviv <a href="https://sessionize.com/devopsdays-tel-aviv-2022/"><img alt="DevOpsDays Tel-Aviv" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-August-2022&color=green"> </a>
 * 14-16: [API Days Paris](https://www.apidays.global/paris/) - Paris (France) & Online
 
-## 2023
+## `2023`
 
-### January
+### January 2023
 
 * 19-20: [Touraine Tech](https://touraine.tech/) - Tours (France) <a href="https://conference-hall.io/speaker/event/3lWSdH0pfZkHEAL7RWSJ"><img alt="Touraine Tech 2023" src="https://img.shields.io/static/v1?label=CFP&message=from%20September-30%20to%20December-04-2022&color=green"> </a>
 * 23-27: [NDC London](https://ndclondon.com/) - London (UK) <a href="https://sessionize.com/ndc-london-2023"><img alt="CFP NDC London" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-September-2022&color=green"> </a>
 * 25-28: [SnowCamp](https://snowcamp.io/fr/) - Grenoble (France) <a href="https://conference-hall.io/public/event/ZGJWM1x64evaNUzycEzn"><img alt="CFP SnowCamp 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-October-2022&color=green"> </a>
 
-### February
+### February 2023
 
 * 4-5: [FOSDEM](https://fosdem.org/2022/news/2022-09-14-fosdem-2023-dates/) - Belgium
 * 9-10: [Latam 2023 DevRelCon](https://latam-2023.devrelcon.dev/) - Online
 * 22-24: [ConFoo](https://confoo.ca/fr/2023) - Montréal (Canada) <a href="https://confoo.ca/fr/2023/call-for-papers"><img alt="CFP ConFoo 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2023-September-2022&color=green"> </a>
 * 23-24: [Kubernetes Community Days Amsterdam 2023](https://community.cncf.io/events/details/cncf-kcd-netherlands-presents-kubernetes-community-days-amsterdam-2023/) - Amsterdam (NL)
 
-### March
+### March 2023
 
 * 7: [Kubernetes Community Days France](https://community.cncf.io/events/details/cncf-kcd-france-presents-kubernetes-community-days-france-2023/) - Paris (France) <img alt="CFP KCD Paris" src="https://img.shields.io/static/v1?label=CFP&message=from%20September-15%20to%20October-31-2022&color=red">
 * 23: [DevDay](https://www.devday.be/) - Louvain la Neuve (Belgium)
 * 27-29: [QCon London](https://qconlondon.com/) - London (UK)
 
-### April
+### April 2023
 
 * 12-14: [Devoxx France](https://www.devoxx.fr/) - Paris (France)
 * 12-14: [KotlinConf](https://kotlinconf.com/) - Amsterdam (the Netherlands) <a href="https://sessionize.com/kotlinconf-2023/"><img alt="CFP KotlinConf" src="https://img.shields.io/static/v1?label=CFP&message=until%201-October-2022&color=green"> </a>
 * 17-21: [KubeCon Europe + CloudNativeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2023/) - Amsterdam (THE NETHERLANDS)
 
-### May
+### May 2023
 * ??: [Codecamp_Festival](https://codecamp.ro/the-festival-book-now/) - Bucharest, Romania
 * 23: [VoxxedDays Brussels](https://brussels.voxxeddays.com/) - Brussels (Belgium)
 
-### June
+### June 2023
 
 * 20-23: [JCON PEOPLE](https://jcon.one/) - Düsseldorf, Germany 
 
-### July
+### July 2023
 
 * 3-5: [DevBCN](www.devbcn.com) - Barcelona (Spain)
 
-### September
+### September 2023
 
 * 21-23: [Strange Loop 2023](https://thestrangeloop.com) - St. Louis, Missouri (USA)
 
-### October
+### October 2023
 
 * 2-6: [QCon San Francisco](https://qconsf.com/) - San Francisco (USA)
 * 10-12: [SREcon23 Europe/Middle East/Africa](https://www.usenix.org/srecon) - Dublin (Ireland)
