@@ -23,7 +23,7 @@ We are based in  Ukraine - highly recomend to join [Kyiv branch](https://www.fac
 **Technology:**
  Spark AR, React, Facebook Open Source projects 
 
-- [ ] [Microsoft](https://github.com/tomkaXM/events/blob/main/tickets-giveaway.md)
+- [ ] [Microsoft](https://developer.microsoft.com/en-us/)
 
 >`Developer Communities` Meet and network with fellow community members with passion to learn and use Microsoft product over [Developer Communities](https://developer.microsoft.com/en-us/community/FindGroups)
 Discover and connect with others who build with Microsoft tools and services.
@@ -70,7 +70,7 @@ The AWS Community Builders program offers technical resources, education, and ne
 **Technology:**
 AWS Web Services, Cloud Solution
 
-- [ ] [Apple]
+- [ ] [Apple](https://developer.apple.com/forums/)
 
 >[`Apple Developer Forums`](https://developer.apple.com/forums/)
 Post your questions, exchange knowledge, and connect with fellow developers and Apple engineers on a variety of software development topics.
