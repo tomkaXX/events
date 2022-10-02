@@ -1,4 +1,9 @@
-# Developers Conferences Agenda/List
+
+# `Developers Conferences List` :zap:
+
+
+![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 One place - all possible conference and hackathons from around a world! 
 
