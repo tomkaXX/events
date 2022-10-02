@@ -10,37 +10,11 @@ You want to contribute, add an event or your event? Perfect! Just do a [Pull Req
 If everybody contribute to this repo, it can really help conferences organizer and another goal of this idea is to list a maximum of conferences for developers.
 If they don't know your conference they can't buy a ticket and come to it 😏.
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=Europe%2FZurich&src=dG9tYWNvbHlhZGFAZ21haWwuY29t&src=YWRkcmVzc2Jvb2sjY29udGFjdHNAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&src=MWgwbmJhNHFzMmJpaGswanRpYXBtOTByODRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=ZmprOXE3amFzdTdzbHB1bzMwZDFhZHJhaGNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=ZW4udWtyYWluaWFuI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&color=%237986CB&color=%23D81B60&color=%234285F4&color=%23795548&color=%237986CB" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
-Here is a simple flow chart: `#RRGGBB`
-Markup : <kbd>⌘F</kbd>
-
-```mermaid
-sequenceDiagram
-    participant Apply for a conference
-    participant Buy a ticket yourself
-    Apply for a conference->>Waiting for answer: Hello ,how to get a developer free/discounted ticket?
-    loop Healthcheck
-        Waiting for answer->>Waiting for answer: Relax and wait - sometimes it's take couple weeks to hear back from organizers.
-    end
-    Note right of Waiting for answer: Rational thoughts <br/>prevail!
-    Waiting for answer-->>Apply for a conference: Great! You got a free ticket!
-    Waiting for answer->>Buy a ticket yourself: Sorry bro, you have to buy ticket for yourself. 
-    Buy a ticket yourself-->>Waiting for answer: Still coming!
-```
 
 
 
-Hackathons
 
-This is a curated list of awesome conferences mostly related (but not limited) to hackathons and workshops.
 
-## 2022
-
-Hackathon | Dates | Prize | Location | Twitter | Level
------------|-------|-----------|----------|---------|---------
-[Solana Hacker House](https://solana.com/events/lisbon-hacker-house) | Nov 1 - 3 | Unknown | Lisbon, Portugal| [![](https://user-images.githubusercontent.com/10602/44954380-6a3ab480-aea1-11e8-8ce7-ad540063f4de.png)](https://twitter.com/T0MKA)| :space_invader:
-[ETH Lisbon](https://ethlisbon.org) | Oct 28th - 30 | Unknown | Lisbon | [![](https://user-images.githubusercontent.com/10602/44954380-6a3ab480-aea1-11e8-8ce7-ad540063f4de.png)](https://twitter.com/@T0MKA)| :space_invader:
 
 
 ## 2022
