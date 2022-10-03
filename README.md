@@ -13,7 +13,7 @@
         <img src="https://img.shields.io/github/commit-activity/m/badges/shields" /></a-->
     <!--a href="https://circleci.com/gh/badges/shields/tree/master">
         <img src="https://img.shields.io/circleci/project/github/badges/shields/master" alt="build status"></a-->
-    <a href="https://twitter.com/intent/follow?screen_name=shields_io">
+    <a href="https://twitter.com/intent/follow?screen_name=T0MKA">
         <img src="https://img.shields.io/twitter/follow/T0MKA?style=social&logo=twitter"
             alt="follow on Twitter"></a>
 </p>
