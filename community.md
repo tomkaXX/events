@@ -2,7 +2,7 @@
 <p align="left">
     <a href="https://awesome.re" alt="Awesome">
         <img src="https://awesome.re/badge.svg" /></a>
-    <a href="https://twitter.com/intent/follow?screen_name=shields_io">
+    <a href="https://twitter.com/intent/follow?screen_name=T0MKA">
         <img src="https://img.shields.io/twitter/follow/T0MKA?style=social&logo=twitter"
             alt="follow on Twitter"></a>
 </p>
